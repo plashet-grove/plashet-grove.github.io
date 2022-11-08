@@ -1,6 +1,6 @@
 baseURL: https://plashet-grove.github.io/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Plashetgrove
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Cloud. Kubernetes. DevOps.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Move fast and increase your business revenue with the latest in Cloud technologies.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
