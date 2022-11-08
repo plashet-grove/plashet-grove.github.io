@@ -104,9 +104,9 @@ params:
     title: With a great IT backbone
     subtitle: The organisation can move fast.
     tiles:
-    - title: App builder
+    - title: Online Presence
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Increase your online social media presence.
       url: /
       buttonText: Free trial
     - title: Cloud integration
