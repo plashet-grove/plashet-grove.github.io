@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Cloud. Kubernetes. DevOps.
     # Hero subtitle (optional)
-    subtitle: Move fast and increase your revenue with the latest in Cloud Technologies.
+    subtitle: Move fast and increase your revenue leveraging latest Cloud Technologies.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
