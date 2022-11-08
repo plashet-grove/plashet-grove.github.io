@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Cloud. Kubernetes. DevOps.
     # Hero subtitle (optional)
-    subtitle: Move fast and increase your business revenue with the latest in Cloud technologies.
+    subtitle: Move fast and increase your revenue with the latest in Cloud Technologies.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -101,8 +101,8 @@ params:
       - text: App settings
         url: /
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: With a great IT backbone
+    subtitle: The organisation can move fast.
     tiles:
     - title: App builder
       icon: mouse-globe
